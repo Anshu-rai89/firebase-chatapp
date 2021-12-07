@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firebase-chatapp/static/css/main.1d410702.chunk.css",
+    "main.js": "/firebase-chatapp/static/js/main.c379ebdf.chunk.js",
+    "main.js.map": "/firebase-chatapp/static/js/main.c379ebdf.chunk.js.map",
+    "runtime-main.js": "/firebase-chatapp/static/js/runtime-main.e7367d86.js",
+    "runtime-main.js.map": "/firebase-chatapp/static/js/runtime-main.e7367d86.js.map",
+    "static/js/2.2fad8d32.chunk.js": "/firebase-chatapp/static/js/2.2fad8d32.chunk.js",
+    "static/js/2.2fad8d32.chunk.js.map": "/firebase-chatapp/static/js/2.2fad8d32.chunk.js.map",
+    "static/js/3.0663c00f.chunk.js": "/firebase-chatapp/static/js/3.0663c00f.chunk.js",
+    "static/js/3.0663c00f.chunk.js.map": "/firebase-chatapp/static/js/3.0663c00f.chunk.js.map",
+    "index.html": "/firebase-chatapp/index.html",
+    "static/css/main.1d410702.chunk.css.map": "/firebase-chatapp/static/css/main.1d410702.chunk.css.map",
+    "static/js/2.2fad8d32.chunk.js.LICENSE.txt": "/firebase-chatapp/static/js/2.2fad8d32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7367d86.js",
+    "static/js/2.2fad8d32.chunk.js",
+    "static/css/main.1d410702.chunk.css",
+    "static/js/main.c379ebdf.chunk.js"
+  ]
+}
