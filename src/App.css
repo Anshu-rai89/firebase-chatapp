@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  display: inline-block;
+  margin: 100px;
+}
+
+.chabox {
+  min-height: 500px;
+  width: 400px;
+  border: 1px solid black;
+  margin-left: 70%;
+}
+
+.right {
+  margin-left: 70%;
+}
+
+.left {
+  margin-left: -30%;
+}
